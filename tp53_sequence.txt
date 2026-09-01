@@ -1,0 +1,8 @@
+
+1. TP53TG5
+TP53 target 5 [Thamnophis sirtalis]
+Other Designations: TP53-target gene 5 protein
+Chromosome: Un
+Annotation:  NW_028261387.1 (72408888..72413706)
+ID: 148044719
+
